@@ -1,0 +1,23 @@
+.heading 
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;;
+}
+.note
+{
+    font-size: 15px;
+    color: rgb(44, 4, 54);
+}
+body
+{
+    background-size: cover;
+}
+#PurpleCanvas
+{
+    margin-top: 30px;
+	border-width:10px;
+	background-color: red; 
+	border-style:ridge;
+    border-color: blueviolet;
+}
